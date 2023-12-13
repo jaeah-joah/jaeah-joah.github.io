@@ -28,7 +28,9 @@ html {
 
 /* Remove margin */
 
-body { margin: 0; }
+body { margin: 0; 
+max-width: 1200px; // Set your desired max-width here
+margin: 0 auto; // Center the content horizontally }
 
 /* Selected elements */
 
