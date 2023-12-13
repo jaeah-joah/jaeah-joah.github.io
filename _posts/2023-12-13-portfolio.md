@@ -1,7 +1,12 @@
 ---
 title: "Jaeah's Portfolio"
 date: 2023-12-13 15:50:00 -0400
-categories: AI개발자포트폴리오 개발자포트폴리오
+categories: AI개발자포트폴리오
+tags:
+  - [자연어처리, NLP, AIResearcher, Portfolio]
+
+toc: true
+toc_sticky: true
 ---
 
 # Jaeah You
