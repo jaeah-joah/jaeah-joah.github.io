@@ -14,9 +14,11 @@ toc_sticky: true
 ## NLP Researcher/Engineer
 ![슬라이드1](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/5f0d028c-a9aa-4b5e-a142-2ac275b1091b)
 ![슬라이드2](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/a673fb9f-2b0c-42e6-8ab5-aaea6187237c)
+## Introduction
 ![슬라이드3](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/eb876389-bfd7-46cb-848f-f22a5308ab1c)
 ![슬라이드4](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/f7f99e43-937e-48ea-97c7-a38622ad66ff)
 ![슬라이드5](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/696c0dd6-590d-4509-9952-f2604d9f4a35)
+## Research
 ![슬라이드6](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/418f5668-e06f-4f77-a01c-512fa5cca753)
 ![슬라이드7](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/17a584f5-0314-48ec-8ee9-2c9b4780942a)
 ![슬라이드8](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/1711f400-39ee-454f-a15e-df87e744d417)
@@ -33,14 +35,17 @@ toc_sticky: true
 ![슬라이드19](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/aaf24846-7026-405c-a375-f5fecc53be43)
 ![슬라이드20](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/86aa8085-7e70-40f2-bb48-98bab02ab423)
 ![슬라이드21](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/45f77d0a-e116-4e5e-8437-7816f9854780)
+## Project
 ![슬라이드22](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/92a537fd-2db3-4b5b-ae05-09feb5785e4f)
 ![슬라이드23](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/0ea89418-375f-4192-bed3-1a5700ddd63c)
 ![슬라이드24](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/ee00749a-917b-4cf8-a487-4826459e0ad5)
+## Domestic Patent
 ![슬라이드25](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/f135fb2c-0d65-471c-92cc-b3a7d15dfdb1)
 ![슬라이드26](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/20339f06-a78e-4cf4-807f-da7075bded9f)
 ![슬라이드27](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/56023657-1b0a-44b8-9269-a7fc6fca3387)
 ![슬라이드28](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/1aa633d5-f1fb-4a62-a257-0f1eea73c78c)
 ![슬라이드29](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/0371ac51-3fbb-48af-9a1a-bc27734e9407)
+## Competition
 ![슬라이드30](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/73ae798b-f99a-40ca-97b8-9880fc7612aa)
 ![슬라이드31](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/c3788815-92f9-4a5e-9922-414b73c990b2)
 ![슬라이드32](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/c936421d-79c6-49c7-a3ae-b5ee9056a956)
