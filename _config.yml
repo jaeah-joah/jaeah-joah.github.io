@@ -96,9 +96,9 @@ analytics:
 author:
   name             : "Jaeah"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am a currently M.S. student in the department of Artificial Intelligence at Sungkyunkwan University. My research interests are Dialogue Systems, Automatic Text Summarization, Generative AI and LLMs."
   location         : "Seoul"
-  email            : "yja720@g.skku.edu"
+  email            : "youjaeah@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -108,7 +108,7 @@ author:
       # url: "https://your-website.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://instagram.com/jaeah.joah"
+      # url: "https://instagram.com/jaeah.joah"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -117,7 +117,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/jaeah.joah"
 
 # Site Footer
 footer:
