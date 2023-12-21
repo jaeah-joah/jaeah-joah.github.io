@@ -29,10 +29,10 @@ toc_sticky: true
 ![슬라이드13](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/fe7df12b-8a05-42c9-b442-00826019bb12)
 ![슬라이드14](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/1cf536c2-b006-4fc8-bf0d-3fceccdbf7af)
 ![슬라이드15](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/57052483-2ac5-462b-8b56-604188c91219)
-![슬라이드16](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/f2a8b93f-2d71-4e6f-a7c1-9b5ab5ed874d)
+![슬라이드16](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/7f32292b-7e2d-49ac-ad51-3f6260cf3dd0)
 ![슬라이드17](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/b0e72de2-ebd8-4233-95f5-c7779d412cc2)
 ![슬라이드18](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/ce512251-95ef-4c1f-b524-bb21bf9acefd)
-![슬라이드19](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/aaf24846-7026-405c-a375-f5fecc53be43)
+![슬라이드19](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/00450312-3e6e-4f0c-b26f-38528c488653)
 ![슬라이드20](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/86aa8085-7e70-40f2-bb48-98bab02ab423)
 ![슬라이드21](https://github.com/jaeah-joah/jaeah-joah.github.io/assets/76445666/45f77d0a-e116-4e5e-8437-7816f9854780)
 ## Project
